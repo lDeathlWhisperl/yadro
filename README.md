@@ -1,5 +1,5 @@
 ## build image
-``` ./build ```
+``` ./build.sh ```
 
 ## build qemu
 ``` docker run --rm -v my_volume:/data my_image build ```
